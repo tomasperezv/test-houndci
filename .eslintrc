@@ -1,0 +1,4 @@
+// Extends the AirBNB es5 eslint configuration
+{
+  "extends": "eslint-config-airbnb-es5"
+}
