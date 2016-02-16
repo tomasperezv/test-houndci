@@ -57,6 +57,7 @@ module._feature();
 var finalPrice = 35 + (4 * TAX_PERCENTAGE);
 
 // Check Yoda conditions
+var condition = false;
 if (true === condition) {
   console.log("True, it's");
 }
