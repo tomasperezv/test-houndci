@@ -50,3 +50,13 @@ var secondModule = new Module;
 // More advanced systems should be able to detect trying to access
 // To a private variable here.
 module._feature();
+
+// Testing the airbnb es5 configuration
+
+// Avoid magic numbers
+var finalPrice = 35 + (4 * TAX_PERCENTAGE);
+
+// Check Yoda conditions
+if (true === condition) {
+  console.log("True, it's");
+}
