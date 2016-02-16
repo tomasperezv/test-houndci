@@ -1,5 +1,10 @@
 {
   extends: 'eslint:recommended',
+  'env': {
+    'mocha': true,
+    'browser': true,
+    'jquery': true
+  },  
   'rules': {
 
     /**
